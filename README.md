@@ -1,7 +1,7 @@
 # Projects
 Brief list of some projects I have worked on in my last 4 years focusing on Data Science & AI.
 
-## Recommendation System & Analytics for PMF product	
+### Recommendation System & Analytics for PMF product	
 Added Recommendation system model to Personal Finance Management application of client on Android and iOS for by performing ETL, Market Basket Analysis, Collaborative filtering using Python, XGBoost and Watson Machine Learning	
 - Defined the scope and project plan for the POC building. Conducted skilling workshops for client as per requirements.
 - Analyzed data of client, wrangled customer activity data of 12 million transactions with customer budget to ready for recommendation system, resulting in aggregated data providing additional revenue streams for client.
